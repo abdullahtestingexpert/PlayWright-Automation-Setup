@@ -1,0 +1,122 @@
+# Page snapshot
+
+```yaml
+- complementary:
+  - link "main_logo":
+    - /url: /
+    - img "main_logo"
+  - separator
+  - list:
+    - listitem:
+      - link " Dashboard " [expanded]:
+        - /url: "#home"
+      - list:
+        - listitem:
+          - link "C Overview":
+            - /url: /dashboard/home
+    - listitem:
+      - link " Proposals " [expanded]:
+        - /url: "#proposals"
+      - list:
+        - listitem:
+          - link "L New Proposal":
+            - /url: /protego
+        - listitem:
+          - link "L All Proposals":
+            - /url: /proposals
+    - listitem:
+      - link " Goals ":
+        - /url: "#goals"
+    - listitem:
+      - link " Email Marketing (BETA) " [expanded]:
+        - /url: "#Email-Marketing"
+      - list:
+        - listitem:
+          - link "L 9 Bullets to Bind-it (BETA)":
+            - /url: /manage
+        - listitem:
+          - link "C Document Library":
+            - /url: /library
+    - listitem:
+      - heading "Tutorials & Coaching" [level=6]
+    - listitem:
+      - link " Tutorial Videos":
+        - /url: "#"
+    - listitem:
+      - link " Preeminent Coaching":
+        - /url: "#"
+    - listitem:
+      - link " Glossary":
+        - /url: /glossary
+    - listitem:
+      - heading "MANAGEMENT & SUPPORT" [level=6]
+    - listitem:
+      - link " Agency " [expanded]:
+        - /url: "#agency"
+      - list:
+        - listitem:
+          - link "C Invite Member":
+            - /url: /invite
+        - listitem:
+          - link "C Edit Style":
+            - /url: /style
+        - listitem:
+          - link "C Manage Members":
+            - /url: /agency/members
+    - listitem:
+      - link " Support " [expanded]:
+        - /url: "#support"
+      - list:
+        - listitem:
+          - link "L FAQs":
+            - /url: "#"
+        - listitem:
+          - link "L Send us a message":
+            - /url: "#"
+        - listitem:
+          - link "L Start Guided Tour":
+            - /url: "#"
+- main:
+  - navigation:
+    - navigation "breadcrumb":
+      - list:
+        - listitem: 
+        - listitem:
+          - text: /
+          - link "Invite":
+            - /url: "#"
+        - listitem: / Invite
+      - heading "Invite" [level=6]
+    - link "":
+      - /url: "#"
+    - link "":
+      - /url: "#"
+    - button
+    - text:  
+    - list:
+      - listitem:
+        - link "Test Agency":
+          - /url: "#"
+          - img
+          - text: Test Agency
+  - button " 3"
+  - heading "Invite Your Team" [level=3]
+  - heading "This is where you invite producers and managers to join your team." [level=5]
+  - button "Name"
+  - button "Role"
+  - button "Confirm"
+  - heading "Confirm their details" [level=5]
+  - paragraph: Make sure the following info is correct before sending.
+  - paragraph: "First Name: Test"
+  - paragraph: "Last Name: Name"
+  - paragraph: "Email: article-door@srnbwjgi.mailosaur.net"
+  - paragraph: "Account Type: Producer"
+  - button "Prev"
+  - button "Send"
+  - text: © 2025, made by
+  - link "BizAssure, LLC":
+    - /url: "#"
+- button "Feedback - Show survey":
+  - img
+  - text: Feedback
+```

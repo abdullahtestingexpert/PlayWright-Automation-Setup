@@ -1,0 +1,41 @@
+[
+    {
+        "Large accounts renewed": "1.6",
+        "Small accounts renewed": "0.5",
+        "Book value after attrition": "2.1",
+        "Book value w/rate increase": "2.94",
+        "Required book value to achieve my income goal": "200,010",
+        "New Production Required": "200,007",
+        "Number of new accounts needed this year (rounded)": "6,667",
+        "Total number of accounts I must present to this year (rounded)": "19,049",
+        "New presentations required p/week": "380.98",
+        "p/month": "1523.9",
+        "Months to a $1million book": "60"
+    },
+    {
+        "Large accounts renewed": "1.6",
+        "Small accounts renewed": "0.6",
+        "Book value after attrition": "2.2",
+        "Book value w/rate increase": "3.3",
+        "Required book value to achieve my income goal": "5,010",
+        "New Production Required": "5,007",
+        "Number of new accounts needed this year (rounded)": "167",
+        "Total number of accounts I must present to this year (rounded)": "418",
+        "New presentations required p/week": "8.36",
+        "p/month": "33.4",
+        "Months to a $1million book": "2,396"
+    },
+    {
+        "Large accounts renewed": "25.6",
+        "Small accounts renewed": "4.56",
+        "Book value after attrition": "30.16",
+        "Book value w/rate increase": "54.288",
+        "Required book value to achieve my income goal": "70,040",
+        "New Production Required": "69,986",
+        "Number of new accounts needed this year (rounded)": "1,000",
+        "Total number of accounts I must present to this year (rounded)": "1,695",
+        "New presentations required p/week": "33.90",
+        "p/month": "135.6",
+        "Months to a $1million book": "172"
+    }
+]
